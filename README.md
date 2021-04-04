@@ -8,7 +8,7 @@
 
 This project was created as part of a project evaluation for Udacity.
 
-It aim to try to provide answers to certain questions for a given data set following the CRIPS DM approach. In this case the data set is a StackOverflow survey.
+It aims to provide answers to certain questions for a given data set following the CRIPS DM approach. In this case the data set is a StackOverflow survey.
 
 The questions were:
 - What are the benefits that people who have been coding for the longest time enjoy the most? and, Does them change over the time?
