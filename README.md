@@ -6,6 +6,8 @@
 
 # UDACITY DATA SCIENCE PROJECT 1: A noob approach for CRISP DM
 
+https://juancamiloceron.medium.com/a-noob-approach-for-crisp-dm-that-probably-will-make-you-cry-d938bdb6f951
+
 This project was created as part of a project evaluation for Udacity.
 
 It aims to provide answers to certain questions for a given data set following the CRIPS DM approach. In this case the data set is a StackOverflow survey.
