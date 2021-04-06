@@ -18,7 +18,7 @@ The questions were:
 - Apart of the Career satisfaction, what are other factors (implicit or explicit company factors) that influence Job Satisfaction?
 
 You can check more about the motivation of the project here:
-https://juancamiloceron.medium.com/a-noob-approach-for-crisp-dm-that-probably-will-make-you-cry-d938bdb6f951
+https://juancamiloceron.medium.com/the-pursuit-of-happyness-as-service-developer-a-story-that-probably-will-make-you-cry-8be63c40ece
 
 # Installation
 
